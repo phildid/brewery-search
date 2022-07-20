@@ -1,5 +1,4 @@
-/*axios.defaults.baseURL = "https://api.openbrewerydb.org/breweries";*/
-axios.defaults.baseURL = "https://github.com/phildid/openbrewerydb/breweries";
+axios.defaults.baseURL = "https://api.openbrewerydb.org/breweries";
 
 const input = document.getElementById("search-input");
 
